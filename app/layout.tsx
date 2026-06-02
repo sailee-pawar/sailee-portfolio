@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sailee Pawar",
+  title: "Sailee Pawar - Software Engineer Portfolio",
   description: "sailee's portfolio showcasing skills, projects, and experience in software engineering.",
 };
 
